@@ -79,4 +79,5 @@ Vi har tre aftensmåltider.
 3. Boberg, WGS84, `N 57.227628, E 13.202755`
 4. Ramsäng, WGS84, `N 57.132736, E 13.076669`
 
-![Shelters er markeret på kortet med en "knappenål" med en hvid firkant i.](./shelters_kort.png)
+Shelters er markeret på kortet med en "knappenål" med en hvid firkant i.
+![](./shelters_kort.png)
