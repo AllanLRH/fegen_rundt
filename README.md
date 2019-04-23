@@ -45,7 +45,10 @@ Vi deles om telte og kogegrej.
 
 Altså har vi telt-kapacitet til 6 til 10 mand.
 
-Vi har kogegrej nok, og tager muligvis også et vandfilter med.
+Vi har kogegrej nok, og aftaler hvem som tager hvad med, når vi ved hvor mange deltagere vi er.
+
+Foruden kogegrej tager vi sammenklappelige dunke med, så vi kan bære meget vand hvis nødvendigt, og vi tager muligvis også et vandfilter med, så vi kan drikke søvandet uden at koge det.
+Det er dog en forudsætning at det ikke er forurenet af nærtliggende landbrug eller andre forureningskilder.
 
 ### Proviant
 Vi har fælles morgenmad og aftensmad — man skal selv stå for frokost.
