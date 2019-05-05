@@ -1,6 +1,6 @@
 # Vandretur Fegen rundt
 
-## Kort beskrivelse
+## Kortfattet beskrivelse
 
 * __Område__: Omkring søen Fegen i Hallands Len — nordlig højde om Aalborg
 * __Længde:__ ca. 67 km
@@ -18,7 +18,7 @@ Vi skal under alle omstændighedder have telte med.
 Vi skal gå ontrent 11 km på de halve vandredage og 22 km på de fulde vandredage.
 
 Turen bliver en af de lidt hårdere, da vi skal gå en pæn distance hver dag.
-Vi skal nok være opmærksomme på at det nok tager længere tid at gå distancen på østsiden grundet tærænnet.
+Vi skal være opmærksomme på at det nok tager længere tid at gå distancen på østsiden grundet tærænnet.
 Vi ønsker dog også at have tid til at spise frokost uden at skynde os, samt tid til at hygge i lejren.
 For at nå dette siger vi efter en tidlig afgang om morgnen, og efter hurtigt at få lejr-tjanserne fordelt mellem folk, så flere opgaver varetages samtidig.
 
